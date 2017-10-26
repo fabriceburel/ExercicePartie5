@@ -1,16 +1,15 @@
 var CreationTableauLangages = function () {
-
-  return 'A compléter';
+  var langages = ['Html', 'CSS', 'Java', 'PHP'];
+  return langages;
 }
 
 var CreationTableauNombres = function () {
-
-    return 'A compléter';
+    var nombres = [0,1,2,3,4,5];
+    return nombres;
 }
 
 var RemplacementElement = function (langages) {
-
-  return 'A compléter';
+  return langages[2];
 }
 
 var AjoutElementLangages = function (langages) {
